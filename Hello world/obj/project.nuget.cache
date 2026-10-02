@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4IMhCGhc8xk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Polina\\Desktop\\Hello world\\Hello world\\Hello world.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Polina\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.20\\microsoft.aspnetcore.openapi.9.0.20.nupkg.sha512",
+    "C:\\Users\\Polina\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Polina\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Polina\\.nuget\\packages\\microsoft.openapi\\1.6.30\\microsoft.openapi.1.6.30.nupkg.sha512",
+    "C:\\Users\\Polina\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
