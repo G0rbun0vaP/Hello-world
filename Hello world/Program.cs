@@ -13,7 +13,7 @@ app.MapGet("/api/students", async () =>
     await conn.OpenAsync();
 
     await using var cmd = new NpgsqlCommand("SELECT \"Id\", \"Name\", \"Surname\" FROM \"Students\"", conn);
-    await using var reader = cmd.ExecuteReaderAsync();
+    await using var reader = await cmd.ExecuteReaderAsync();
 
     while (await reader.ReadAsync())
     {
